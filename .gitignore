@@ -4,3 +4,4 @@ dist/
 temporary screenshots/
 .superpowers/
 *.log
+.worktrees/
